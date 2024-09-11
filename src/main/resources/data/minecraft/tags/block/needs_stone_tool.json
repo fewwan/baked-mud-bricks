@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "bakedmudbricks:baked_mud_bricks",
+        "bakedmudbricks:baked_mud_brick_slab",
+        "bakedmudbricks:baked_mud_brick_stairs",
+        "bakedmudbricks:baked_mud_brick_wall"
+    ]
+}

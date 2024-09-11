@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+        "wall": "bakedmudbricks:block/baked_mud_bricks"
+    }
+}

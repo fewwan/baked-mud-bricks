@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bakedmudbricks:baked_mud_bricks"
+        }
+    },
+    "result": {
+        "id": "bakedmudbricks:baked_mud_brick_wall",
+        "count": 6
+    }
+}
